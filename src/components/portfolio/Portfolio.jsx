@@ -29,10 +29,10 @@ const data = [
     id: 3,
     image: IMG3,
     title: "JavaScript | HTML | CSS Calculator",
-    github: "https://github.com/Ade-mir/javascript-calculator",
-    demo: "https://fabulous-otter-35c137.netlify.app/",
+    github: "https://github.com/aelalaoui/app-calculator",
+    demo: "https://app-conventional-calculator.netlify.app/",
     brief:
-      "https://github.com/Ade-mir/javascript-calculator/blob/main/README.md",
+      "https://github.com/aelalaoui/app-calculator/blob/main/README.md",
   },
   {
     id: 4,
