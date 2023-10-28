@@ -11,12 +11,14 @@ const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
   return (
     <nav>
-      <button
+      {/* eslint-disable-next-line */}
+      <a
+        href="#"
         onClick={() => setActiveNav("#")}
         className={activeNav === "#" ? "active" : ""}
       >
         <AiOutlineHome />
-      </button>
+      </a>
       <a
         href="#about"
         onClick={() => setActiveNav("#about")}
