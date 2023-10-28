@@ -11,11 +11,11 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "MERN Stack Social Media Platform",
-    github: "https://github.com/Ade-mir/MERN-social-media-platform",
-    demo: "https://peaceful-cranachan-56056a.netlify.app/",
+    title: "VueJs 3 | Tailwind | MapBox Weather App",
+    github: "https://github.com/aelalaoui/app-weather",
+    demo: "https://app-weather-forcasting.netlify.app/",
     brief:
-      "https://www.canva.com/design/DAFapZZx0GI/205p6bLMxmlp8Z4OjkvcMw/view?utm_content=DAFapZZx0GI&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu",
+      "https://github.com/aelalaoui/app-weather/blob/main/README.md",
   },
   {
     id: 2,
