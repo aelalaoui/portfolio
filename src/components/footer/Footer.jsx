@@ -9,7 +9,7 @@ const Footer = () => {
     <footer>
       {/* eslint-disable-next-line */}
       <a href="#" className="footer__logo">
-        Ademir Alijagic
+        Adil EL ALAOUI
       </a>
       <ul className="permalinks">
         <li>
@@ -44,7 +44,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Ademir Alijagic. All rights reserved</small>
+        <small>&copy; Adil EL ALAOUI. All rights reserved</small>
       </div>
     </footer>
   );
