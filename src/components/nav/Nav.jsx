@@ -12,8 +12,8 @@ const Nav = () => {
   return (
     <nav>
       <a
+      // eslint-disable-next-line jsx-a11y/anchor-is-valid
         href="#"
-        // eslint-disable-next-line jsx-a11y/anchor-is-valid
         onClick={() => setActiveNav("#")}
         className={activeNav === "#" ? "active" : ""}
       >
