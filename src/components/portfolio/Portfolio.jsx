@@ -13,17 +13,17 @@ const data = [
     image: IMG1,
     title: "VueJs 3 | Tailwind | MapBox Weather App",
     github: "https://github.com/aelalaoui/app-weather",
-    demo: "https://app-weather-forcasting.netlify.app/",
+    demo: "https://app-weather-forcasting.netlify.app/weather/Meurthe-et-Moselle/Nancy?lat=48.693722&lng=6.18341&preview=true",
     brief:
       "https://github.com/aelalaoui/app-weather/blob/main/README.md",
   },
   {
     id: 2,
     image: IMG2,
-    title: "NextJS | TailwindCSS | GraphQL Blog",
-    github: "https://github.com/Ade-mir/nextjs-blog",
-    demo: "https://musical-puffpuff-ff26f2.netlify.app/",
-    brief: "https://github.com/Ade-mir/nextjs-blog/blob/main/README.md",
+    title: "React Brochure Site",
+    github: "https://github.com/aelalaoui/restaurant-brochure-site",
+    demo: "https://restaurant-brochure-site.netlify.app/",
+    brief: "https://github.com/aelalaoui/restaurant-brochure-site/blob/main/README.md",
   },
   {
     id: 3,
@@ -33,30 +33,6 @@ const data = [
     demo: "https://app-conventional-calculator.netlify.app/",
     brief:
       "https://github.com/aelalaoui/app-calculator/blob/main/README.md",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "React Brochure Site",
-    github: "https://github.com/Ade-mir/brochure-site",
-    demo: "https://deluxe-gumption-ef08f4.netlify.app/",
-    brief: "https://github.com/Ade-mir/brochure-site/blob/main/README.md",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "JavaScript | HTML | CSS Portfolio",
-    github: "https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2",
-    demo: "https://thriving-dragon-a3fcd9.netlify.app/",
-    brief: "https://youtu.be/ldwlOzRvYOU",
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: "JavaScript | HTML | CSS Animation Head",
-    github: "https://github.com/Ade-mir/animated-head-portfolio",
-    demo: "https://animated-head-portfolio.netlify.app/",
-    brief: "https://youtu.be/pcFF_IIpMbc",
   },
 ];
 
