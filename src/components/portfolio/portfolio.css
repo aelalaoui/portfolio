@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem;
-  justify-content: center; /* Center horizontally */
 }
 
 .portfolio__item {
@@ -38,6 +37,9 @@
   .portfolio__container {
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
+  }
+  .portfolio__item {
+    justify-self: center; /* Center the item within the cell */
   }
 }
 
