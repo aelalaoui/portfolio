@@ -11,7 +11,7 @@ const data = [
     image: IMG1,
     title: "VueJs 3 | Tailwind | MapBox Weather App",
     github: "https://github.com/aelalaoui/app-weather",
-    demo: "https://app-weather-forcasting.netlify.app/weather/Meurthe-et-Moselle/Nancy?lat=48.693722&lng=6.18341&preview=true",
+    demo: "https://app-weather-forcasting.netlify.app/",
     brief:
       "https://github.com/aelalaoui/app-weather/blob/main/README.md",
   },
