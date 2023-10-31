@@ -22,24 +22,27 @@ const About = () => {
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <small>
-                6 Months + <br /> Developer Experience
+                Solid <br /> Experience
               </small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Education</h5>
               <small>
-                B.Sc. Mechanical Engineering, M.Sc. Innovation &
-                Entrepreneurship
+                Master Degree
+                <br/>
+                in Engineering Complexes Systems
+                <br/>
+                from Lorraine Univerity
               </small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
               <small>
-                3+ Completed
+                Numerous Successfully
                 <br />
-                and Counting
+                Completed and Counting
               </small>
             </article>
           </div>
