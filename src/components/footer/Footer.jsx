@@ -38,9 +38,6 @@ const Footer = () => {
         <a href="https://github.com/aelalaoui">
           <FaGithub />
         </a>
-        <a href="https://www.youtube.com/@howtobecomeadeveloper">
-          <BsYoutube />
-        </a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Adil EL ALAOUI. All rights reserved</small>
