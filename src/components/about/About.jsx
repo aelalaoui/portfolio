@@ -65,7 +65,7 @@ const About = () => {
           <p>
             After a career focused on the business side of IT, I've immersed
             myself in the technical side, and become a fullstack developer
-            through Academic Work's 12-week intensive training in JavaScript.
+            through Academic Work's 12-week intensive training in JavaScript
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
