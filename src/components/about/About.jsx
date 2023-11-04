@@ -49,23 +49,26 @@ const About = () => {
             </article>
           </div>
           <p>
-            I'm a problem solver with a background in Engineering, Product
-            Design, & Entrepreneurship. Alongside my studies, I started Streets
-            of Oslo AS, a company which sold backpacks through social media.
-            Later I worked as a Consultant in TietoEvry within Product
-            Development and Pre-Sales of RPA technology.
+            Passionate about web development, I am a backend developer specializing in PHP (Laravel)
+            and frontend with a particular expertise in Vue.js. With a strong background, I have 
+            contributed to the creation of robust and scalable systems for various companies. 
+            My results-oriented approach and my passion for optimization enable me to create 
+            high-performance and user-friendly applications.
           </p>
           <p>
-            In recent years, I've worked in the Coaching Industry with Sales
-            Automation, Website, & Advertisement Management. I thrive in a role
-            where I can use my broad knowledge to break down complex problems
-            and where the tasks require interaction between Design &
-            Functionality.
+            My proficiency in PHP, particularly within the Laravel framework, has allowed me to build 
+            powerful backend systems that form the backbone of many successful projects. Additionally, 
+            my expertise in Vue.js on the frontend side has been instrumental in crafting seamless 
+            and interactive user interfaces. This combination of skills enables me to develop end-to-end 
+            solutions that not only meet the functional requirements but also provide an exceptional 
+            user experience.
           </p>
           <p>
-            After a career focused on the business side of IT, I've immersed
-            myself in the technical side, and become a fullstack developer
-            through Academic Work's 12-week intensive training in JavaScript
+            Having worked on a diverse range of projects, I understand the importance of adaptability and 
+            scalability in web development. I approach each project with a focus on creating robust, 
+            future-proof solutions that can evolve alongside the needs of the business. This, coupled with 
+            my keen eye for detail and commitment to delivering results, has consistently led to the 
+            development of applications that exceed client expectations.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
