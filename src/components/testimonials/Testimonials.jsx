@@ -19,33 +19,33 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Bastian",
+    name: "Lionel",
     review:
-      "Ademir comes up with ideas easily, and his ability to question the status quo is impressive. In our daily work, he drives our team not only with constant contribution but also with his visionary mind.",
+      "Adil comes up with ideas easily, and his ability to question the status quo is impressive. In our daily work, he drives our team not only with constant contribution but also with his visionary mind.",
   },
   {
     avatar: AVTR2,
-    name: "Marie",
+    name: "Valérian",
     review:
-      "We worked closely in a team over a periode of four months, and I couldn't have asked for a better partner! Ademir is extremely dedicated, and always askes the right questions in order to be on the right track.",
+      "We worked closely in a team over a periode of four months, and I couldn't have asked for a better partner! Adil is extremely dedicated, and always askes the right questions in order to be on the right track.",
   },
   {
     avatar: AVTR3,
-    name: "Ksenia",
+    name: "Elisabette",
     review:
-      "I had the pleasure of working with Ademir on an extensive project and Ademir is very tidy, structured and keen to find good solutions for problems. For me, he has been a good partner and I have benefited a lot from discussing with him.",
+      "I had the pleasure of working with Adil on an extensive project and Ademir is very tidy, structured and keen to find good solutions for problems. For me, he has been a good partner and I have benefited a lot from discussing with him.",
   },
   {
     avatar: AVTR4,
-    name: "Iselin",
+    name: "Caroline",
     review:
-      "I worked with Ademir on a challenging trend analysis project. I would describe him as solution-oriented and adaptable. Last but not least, he is creative, good at design, and a great collaborator!",
+      "I worked with Adil on a challenging trend analysis project. I would describe him as solution-oriented and adaptable. Last but not least, he is creative, good at design, and a great collaborator!",
   },
   {
     avatar: AVTR5,
-    name: "Balraj",
+    name: "François",
     review:
-      "I had the pleasure of working with Ademir on a very challenging project! He is good at finding simple and creative solutions to complex challenges. He is also very helpful, motivated and has great work capacity.",
+      "I had the pleasure of working with Adil on a very challenging project! He is good at finding simple and creative solutions to complex challenges. He is also very helpful, motivated and has great work capacity.",
   },
 ];
 
