@@ -13,7 +13,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={profile_picture} alt="About Ademir" />
+            <img src={profile_picture} alt="About Adil El Alaoui" />
           </div>
         </div>
         <div className="about__content">
@@ -22,53 +22,54 @@ const About = () => {
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <small>
-                Several Years of
+                10+ Years
                 <br />
-                Developer Experience
+                Fullstack Development
               </small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Education</h5>
               <small>
-                Master Degree
+                Master's Degree
                 <br/>
-                in Engineering Complexes Systems
+                Engineering Complex Systems
                 <br/>
-                from Lorraine Univerity
+                University of Lorraine
               </small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
               <small>
-                Numerous Successfully
+                100+ Successful
                 <br />
-                Completed and Counting
+                Projects Delivered
               </small>
             </article>
           </div>
           <p>
-            Passionate about web development, I am a backend developer specializing in PHP (Laravel)
-            and frontend with a particular expertise in Vue.js. With a strong background, I have 
-            contributed to the creation of robust and scalable systems for various companies. 
-            My results-oriented approach and my passion for optimization enable me to create 
-            high-performance and user-friendly applications.
+            As a passionate Fullstack Developer with over 10 years of experience, I specialize in building
+            scalable web applications using modern technologies. My expertise spans both frontend frameworks
+            like React, Vue.js, and Next.js, and backend technologies including PHP/Laravel, Node.js, and
+            Python. I thrive on transforming complex business requirements into elegant, high-performance
+            solutions that drive real results.
           </p>
           <p>
-            My proficiency in PHP, particularly within the Laravel framework, has allowed me to build 
-            powerful backend systems that form the backbone of many successful projects. Additionally, 
-            my expertise in Vue.js on the frontend side has been instrumental in crafting seamless 
-            and interactive user interfaces. This combination of skills enables me to develop end-to-end 
-            solutions that not only meet the functional requirements but also provide an exceptional 
-            user experience.
+            Throughout my career, I've successfully delivered enterprise-level applications for diverse
+            industries, from e-commerce platforms to data-driven SaaS products. My approach combines strong
+            technical skills with a deep understanding of user experience, ensuring that every application
+            I build is not only robust and secure but also intuitive and engaging. I'm particularly skilled
+            in architecting RESTful APIs, implementing CI/CD pipelines, and optimizing database performance
+            for maximum efficiency.
           </p>
           <p>
-            Having worked on a diverse range of projects, I understand the importance of adaptability and 
-            scalability in web development. I approach each project with a focus on creating robust, 
-            future-proof solutions that can evolve alongside the needs of the business. This, coupled with 
-            my keen eye for detail and commitment to delivering results, has consistently led to the 
-            development of applications that exceed client expectations.
+            With a Master's degree in Engineering Complex Systems from the University of Lorraine, I bring
+            both theoretical knowledge and practical expertise to every project. I'm passionate about staying
+            current with emerging technologies and best practices, regularly exploring new frameworks and
+            methodologies to deliver cutting-edge solutions. Whether working independently or as part of an
+            agile team, I'm committed to writing clean, maintainable code and fostering collaborative
+            environments that drive innovation.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

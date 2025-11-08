@@ -4,6 +4,7 @@ import IMG1 from "../../assets/brights-lite.png";
 import IMG2 from "../../assets/brochure.png";
 import IMG3 from "../../assets/Autogeneartive-blog.png";
 import IMG4 from "../../assets/calculator.png";
+import IMG5 from "../../assets/calcuze.png";
 
 const data = [
   {
@@ -28,7 +29,7 @@ const data = [
     image: IMG3,
     title: "Python | Azur Serveless | MS Automation | Blogger Api | OpenAI Api",
     github: "https://github.com/aelalaoui/Autogeneative-blog",
-    demo: "https://www.powerofnutritions.com//",
+    demo: "https://www.powerofnutritions.com/",
     brief:
       "https://github.com/aelalaoui/Autogeneative-blog/blob/main/README.md",
   },
@@ -40,6 +41,15 @@ const data = [
     demo: "https://app-conventional-calculator.netlify.app/",
     brief:
       "https://github.com/aelalaoui/app-calculator/blob/main/README.md",
+  },
+  {
+      id: 5,
+      image: IMG5,
+      title: "React | HTML | PHP Universal Calculator",
+      github: "https://github.com/aelalaoui/calcuze",
+      demo: "https://calcuze.com/",
+      brief:
+          "https://github.com/aelalaoui/calcuze/blob/main/README.md",
   },
 ];
 
