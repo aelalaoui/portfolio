@@ -19,7 +19,7 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Lionel",
+    name: "Jean-Bastian",
     review:
       "Adil comes up with ideas easily, and his ability to question the status quo is impressive. In our daily work, he drives our team not only with constant contribution but also with his visionary mind.",
   },
@@ -43,7 +43,7 @@ const data = [
   },
   {
     avatar: AVTR5,
-    name: "François",
+    name: "Singh",
     review:
       "I had the pleasure of working with Adil on a very challenging project! He is good at finding simple and creative solutions to complex challenges. He is also very helpful, motivated and has great work capacity.",
   },
