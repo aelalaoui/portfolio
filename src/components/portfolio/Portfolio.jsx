@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/brights-lite.png";
 import IMG2 from "../../assets/brochure.png";
-import IMG3 from "../../assets/Autogeneartive-blog.png";
+import IMG3 from "../../assets/alembex.png";
 import IMG4 from "../../assets/calculator.png";
 import IMG5 from "../../assets/calcuze.png";
 
@@ -27,11 +27,11 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Python | Azur Serveless | MS Automation | Blogger Api | OpenAI Api",
-    github: "https://github.com/aelalaoui/Autogeneative-blog",
-    demo: "https://www.powerofnutritions.com/",
+    title: "React | Alembex Simulator",
+    github: "https://github.com/aelalaoui/alembex",
+    demo: "https://alembex.netlify.app/",
     brief:
-      "https://github.com/aelalaoui/Autogeneative-blog/blob/main/README.md",
+      "https://github.com/aelalaoui/alembex/blob/master/README.md",
   },
   {
     id: 4,
